@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="083c576f-865d-4269-82a2-3875f2a963e9" name="Changes" comment="Aplikasi Bansos dengan Java">
+      <change afterPath="$PROJECT_DIR$/src/Java/AlgoritmaStrukturData/Karel/Pertemuan8/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/AlgoritmaStrukturData/Karel/Pertemuan8/Pertemuan_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AplikasiBansos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AplikasiBansos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +36,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/karel/IdeaProjects/Java-Materi-Algoritma-Struktur-Data",
+    "last_opened_file_path": "/home/karel/IdeaProjects/Belajar-Java-OOP",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Pertemuan_8">
     <configuration name="JavaForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaForLoop" />
       <module name="Java-Materi-Algoritma-Struktur-Data" />
@@ -45,8 +48,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pertemuan_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.AlgoritmaStrukturData.Karel.Pertemuan8.Pertemuan_8" />
+      <module name="Java-Materi-Algoritma-Struktur-Data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.AlgoritmaStrukturData.Karel.Pertemuan8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pertemuan_8" />
         <item itemvalue="Application.JavaForLoop" />
       </list>
     </recent_temporary>
@@ -67,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668353997287</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Aplikasi Bansos dengan Java">
+      <created>1668400724705</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668400724705</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

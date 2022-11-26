@@ -81,26 +81,26 @@ public class AplikasiBansos {
     public static void tampilanSemuaDataBansos(){
         int sisaKuotaBansos = 0;
         int minyakGorengData = 0;
-        for (int i = 0; i < minyakGoreng.length; i++) {
-            if (minyakGoreng[i] != null){
+        for (String s : minyakGoreng) {
+            if (s != null) {
                 minyakGorengData++;
             }
         }
         int gulaPasirData = 0;
-        for (int i = 0; i < gulaPasir.length; i++) {
-            if (gulaPasir[i] != null){
+        for (String s : gulaPasir) {
+            if (s != null) {
                 gulaPasirData++;
             }
         }
         int mieGorengData = 0;
-        for (int i = 0; i < mieGoreng.length; i++) {
-            if (mieGoreng[i] != null){
+        for (String s : mieGoreng) {
+            if (s != null) {
                 mieGorengData++;
             }
         }
         int tehHijauData = 0;
-        for (int i = 0; i < tehHijau.length; i++) {
-            if (tehHijau[i] != null){
+        for (String s : tehHijau) {
+            if (s != null) {
                 tehHijauData++;
             }
         }
