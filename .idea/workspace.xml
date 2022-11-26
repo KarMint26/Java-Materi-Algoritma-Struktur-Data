@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="083c576f-865d-4269-82a2-3875f2a963e9" name="Changes" comment="Aplikasi Bansos dengan Java">
-      <change afterPath="$PROJECT_DIR$/src/Java/AlgoritmaStrukturData/Karel/Pertemuan8/Mahasiswa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/AlgoritmaStrukturData/Karel/Pertemuan8/Pertemuan_8.java" afterDir="false" />
+    <list default="true" id="083c576f-865d-4269-82a2-3875f2a963e9" name="Changes" comment="Pertemuan 8">
+      <change afterPath="$PROJECT_DIR$/src/AplikasiTodolist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AplikasiBansos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AplikasiBansos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AplikasiTodoList.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/karel/IdeaProjects/Belajar-Java-OOP",
+    "last_opened_file_path": "/home/karel/IdeaProjects/Java-Materi-Algoritma-Struktur-Data",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -91,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668400724705</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pertemuan 8">
+      <created>1669454735716</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669454735716</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Pertemuan 8">
+      <created>1669454859007</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669454859007</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aplikasi Bansos dengan Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aplikasi Bansos dengan Java" />
+    <MESSAGE value="Pertemuan 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pertemuan 8" />
   </component>
 </project>
